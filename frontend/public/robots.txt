@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+Disallow: /login
+Disallow: /magic-login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /reset-password/
+Disallow: /cabinet
+Disallow: /checkout/success
+Disallow: /checkout/fail
+Disallow: /promo-codes
+Disallow: /finance
+Disallow: /tours
+Disallow: /guides-admin
+Disallow: /requests
+Disallow: /users
+Disallow: /guide-studio
+
+Sitemap: https://audiogid42.ru/sitemap.xml
